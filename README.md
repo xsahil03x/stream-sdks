@@ -1,6 +1,6 @@
 # SDKs for Stream Feeds & Chat
 
-We currently provide the following SDKs and framework integrations for the following platforms. Both Feeds and Chat are covered and we're working around the clock to provide additional SKDs to developers.
+We currently provide the following SDKs and framework integrations for the following platforms. Both Feeds and Chat are covered and we're working around the clock to provide additional SDKs to developers.
 
 ## Feeds
 - [Laravel](https://github.com/GetStream/stream-laravel)
